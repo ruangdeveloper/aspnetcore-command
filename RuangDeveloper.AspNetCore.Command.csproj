@@ -16,6 +16,9 @@
     <PackageIcon>icon.png</PackageIcon>
     <DebugType>embedded</DebugType>
     <Nullable>enable</Nullable>
+    <Deterministic>true</Deterministic>
+    <ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
+    <PathMap>$(SolutionDir)=/</PathMap>
   </PropertyGroup>
 
   <ItemGroup>
