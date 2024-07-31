@@ -1,14 +1,14 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <PackageId>RuangDeveloper.AspNetCore.Command</PackageId>
+    <Authors>Ruang Developer</Authors>
+    <Description>ASP.NET Core Command</Description>
+    <Version>1.0.0</Version>
+    <RepositoryUrl>httpshttps://github.com/ruangdeveloper/aspnetcore-comand</RepositoryUrl>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <Authors>Ruang Developer</Authors>
-    <Company>Ruang Developer</Company>
-    <Description>ASP.NET Core Command</Description>
-    <PackageId>RuangDeveloper.AspNetCore.Command</PackageId>
-    <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
