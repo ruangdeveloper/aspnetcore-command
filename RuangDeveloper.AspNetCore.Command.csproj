@@ -5,11 +5,16 @@
     <Authors>Ruang Developer</Authors>
     <Description>ASP.NET Core Command</Description>
     <Version>1.0.0</Version>
-    <RepositoryUrl>httpshttps://github.com/ruangdeveloper/aspnetcore-comand</RepositoryUrl>
+    <RepositoryUrl>https://github.com/ruangdeveloper/aspnetcore-comand</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/ruangdeveloper/aspnetcore-comand</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageTags>aspnetcore,command</PackageTags>
+    <PackageIcon>icon.png</PackageIcon>
+    <DebugType>embedded</DebugType>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
