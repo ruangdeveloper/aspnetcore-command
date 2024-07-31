@@ -68,6 +68,11 @@ namespace RuangDeveloper.AspNetCore.Command
                                     command.ExecuteAsync([.. arguments]).Wait();
                                     return;
                                 }
+                                else
+                                {
+                                    Console.WriteLine($"Command '{options.Command}' not found.");
+                                    return;
+                                }
                             }
                             catch (Exception ex)
                             {
